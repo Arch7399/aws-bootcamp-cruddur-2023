@@ -1,4 +1,4 @@
-# FREE AWS Cloud Project Bootcamp
+# FREE AWS Cloud Project Bootcamp week 1
 
 - Application: Cruddur
 - Cohort: 2023-A1
